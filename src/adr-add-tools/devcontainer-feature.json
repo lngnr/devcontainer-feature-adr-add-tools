@@ -1,0 +1,6 @@
+{
+    "name": "ADR and ADD tools",
+    "version": "0.1.0",
+    "id": "adr-add-tools",
+    "description": "Installs ADR and ADD tools"
+}

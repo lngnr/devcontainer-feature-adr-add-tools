@@ -1,0 +1,11 @@
+{
+	"name": "ADR and ADD tools in devcontainer",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+	"remoteUser": "node",
+	"features": {
+		"ghcr.io/devcontainers-extra/features/devcontainers-cli:1": {},
+		"ghcr.io/postfinance/devcontainer-features/docker-out:1": {}
+	}
+}

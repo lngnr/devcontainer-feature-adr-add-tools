@@ -2,7 +2,7 @@
 set -e
 
 mkdir -p /opt/adr-tools
-mkdit -p /var/adr-tools/templates
+mkdir -p /var/adr-tools/templates
 git clone --depth=5 https://github.com/npryce/adr-tools.git /opt/adr-tools
 
 FEATURE_DIR=$(realpath $(dirname "$0"))

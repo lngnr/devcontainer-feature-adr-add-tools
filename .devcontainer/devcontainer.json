@@ -7,5 +7,12 @@
 	"features": {
 		"ghcr.io/devcontainers-extra/features/devcontainers-cli:1": {},
 		"ghcr.io/postfinance/devcontainer-features/docker-out:1": {}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"github.vscode-github-actions"
+			]
+		}
 	}
 }

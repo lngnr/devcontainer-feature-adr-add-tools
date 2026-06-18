@@ -6,19 +6,19 @@ Datum: DATE
 
 STATUS
 
-## Kontext
+## Context
 
 The issue motivating this decision, and any context that influences or constrains the decision.
 
-## Entscheidung
+## Decision
 
 The change that we're proposing or have agreed to implement.
 
-## Konsequenzen
+## Consequences
 
 What becomes easier or more difficult to do and any risks introduced by the change that will need to be mitigated.
 
-## Alternativen
+## Alternatives
 
 Any alternative solutions or features that we considered.
 

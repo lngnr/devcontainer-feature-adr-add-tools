@@ -1,0 +1,2 @@
+[user]
+    signingkey = /home/node/.ssh/id_rsa.pub

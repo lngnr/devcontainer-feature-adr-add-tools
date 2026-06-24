@@ -7,7 +7,7 @@ Installs ADR and ADD tools
 
 ```json
 "features": {
-    "ghcr.io/lngnr/devcontainer-feature-adr-add-tools/adr-add-tools:0": {}
+    "ghcr.io/lngnr/devcontainer-feature-adr-add-tools/adr-add-tools:1": {}
 }
 ```
 
